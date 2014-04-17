@@ -2,7 +2,6 @@ var searchData=
 [
   ['binheap_2eh',['binheap.h',['../binheap_8h.html',1,'']]],
   ['binheap_5fcallbacks_5ft',['binheap_callbacks_t',['../binheap_8h.html#structbinheap__callbacks__t',1,'']]],
-  ['binheap_5fcmp_5fkeys_5fcallback',['binheap_cmp_keys_callback',['../binheap_8h.html#aaf947de24ace12bea3371035ee81a4b5',1,'binheap.h']]],
   ['binheap_5fcount',['binheap_count',['../binheap_8h.html#aa733db191b87bf6bb2b9f246d9c23348',1,'binheap.h']]],
   ['binheap_5fcreate',['binheap_create',['../binheap_8h.html#ad1d7b1dd2c965385b60953890cbffd77',1,'binheap.h']]],
   ['binheap_5fdecr_5fkey_5fcallback',['binheap_decr_key_callback',['../binheap_8h.html#a4b8fbd1a16e176618a72cefd5e842ba1',1,'binheap.h']]],
@@ -32,5 +31,7 @@ var searchData=
   ['binheap_5fmode_5fmax',['BINHEAP_MODE_MAX',['../binheap_8h.html#a742affb06865627d216e6b001a7694f7adb9c014247ac0e580c7c3156e093910d',1,'binheap.h']]],
   ['binheap_5fmode_5fmin',['BINHEAP_MODE_MIN',['../binheap_8h.html#a742affb06865627d216e6b001a7694f7aa15e68c78c041cdd4363de055e242f53',1,'binheap.h']]],
   ['binheap_5fmode_5ft',['binheap_mode_t',['../binheap_8h.html#a742affb06865627d216e6b001a7694f7',1,'binheap.h']]],
-  ['binheap_5ft',['binheap_t',['../binheap_8h.html#a996b18d437efeba2d2cedca7d21aa544',1,'binheap.h']]]
+  ['binheap_5ft',['binheap_t',['../binheap_8h.html#a996b18d437efeba2d2cedca7d21aa544',1,'binheap.h']]],
+  ['binheap_5fwalk',['binheap_walk',['../binheap_8h.html#adcde2fb22431b163d45f77ca433c878c',1,'binheap.h']]],
+  ['binheap_5fwalk_5fcallback_5ft',['binheap_walk_callback_t',['../binheap_8h.html#a7399dded9cf949f37cb3e8f966368fc7',1,'binheap.h']]]
 ];

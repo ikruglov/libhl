@@ -1,6 +1,8 @@
 var dir_68267d1309a1af8e8297ef4c3efbcdba =
 [
+    [ "avltree.h", "avltree_8h.html", "avltree_8h" ],
     [ "binheap.h", "binheap_8h.html", "binheap_8h" ],
+    [ "comparators.h", "comparators_8h.html", "comparators_8h" ],
     [ "fbuf.h", "fbuf_8h.html", "fbuf_8h" ],
     [ "hashtable.h", "hashtable_8h.html", "hashtable_8h" ],
     [ "linklist.h", "linklist_8h.html", "linklist_8h" ],

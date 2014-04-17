@@ -1,14 +1,14 @@
 var binheap_8h =
 [
     [ "binheap_callbacks_t", "binheap_8h.html#structbinheap__callbacks__t", [
-      [ "cmp", "binheap_8h.html#ad3e250893038100ba08c266d0dfe87f4", null ],
+      [ "cmp", "binheap_8h.html#a12ff90b7a19a8b9d70d6c43f18b82621", null ],
       [ "incr", "binheap_8h.html#aada8544b7a9ef937ea8d031910ca9aea", null ],
       [ "decr", "binheap_8h.html#a155f5635a59c09bbf6fb82e576b0d019", null ]
     ] ],
     [ "binheap_t", "binheap_8h.html#a996b18d437efeba2d2cedca7d21aa544", null ],
-    [ "binheap_cmp_keys_callback", "binheap_8h.html#aaf947de24ace12bea3371035ee81a4b5", null ],
     [ "binheap_incr_key_callback", "binheap_8h.html#af4809e06c94bcb9d2569d8d19dc3a2d1", null ],
     [ "binheap_decr_key_callback", "binheap_8h.html#a4b8fbd1a16e176618a72cefd5e842ba1", null ],
+    [ "binheap_walk_callback_t", "binheap_8h.html#a7399dded9cf949f37cb3e8f966368fc7", null ],
     [ "binheap_mode_t", "binheap_8h.html#a742affb06865627d216e6b001a7694f7", [
       [ "BINHEAP_MODE_MAX", "binheap_8h.html#a742affb06865627d216e6b001a7694f7adb9c014247ac0e580c7c3156e093910d", null ],
       [ "BINHEAP_MODE_MIN", "binheap_8h.html#a742affb06865627d216e6b001a7694f7aa15e68c78c041cdd4363de055e242f53", null ]
@@ -28,6 +28,7 @@ var binheap_8h =
     [ "binheap_increase_key", "binheap_8h.html#ad9dee194e7bd6dbd21ef6d256a9e6520", null ],
     [ "binheap_decrease_key", "binheap_8h.html#ab4170563eca3188a231a716f6bdf2c73", null ],
     [ "binheap_merge", "binheap_8h.html#a12ae86c3af700313d1a1689df61c12f0", null ],
+    [ "binheap_walk", "binheap_8h.html#adcde2fb22431b163d45f77ca433c878c", null ],
     [ "binheap_count", "binheap_8h.html#aa733db191b87bf6bb2b9f246d9c23348", null ],
     [ "binheap_keys_callbacks_int16_t", "binheap_8h.html#a7417981b93895ad623a7fbca4b858acf", null ],
     [ "binheap_keys_callbacks_int32_t", "binheap_8h.html#a1eb4890a1e3835d51873cc496ddd7ae0", null ],

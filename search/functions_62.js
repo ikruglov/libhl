@@ -23,5 +23,6 @@ var searchData=
   ['binheap_5fkeys_5fcallbacks_5fuint64_5ft',['binheap_keys_callbacks_uint64_t',['../binheap_8h.html#a305679dbcb981392d4f2d4efc61fde37',1,'binheap.h']]],
   ['binheap_5fmaximum',['binheap_maximum',['../binheap_8h.html#a40267419a2ac136c084926679ae89e6b',1,'binheap.h']]],
   ['binheap_5fmerge',['binheap_merge',['../binheap_8h.html#a12ae86c3af700313d1a1689df61c12f0',1,'binheap.h']]],
-  ['binheap_5fminimum',['binheap_minimum',['../binheap_8h.html#a2a334afddd72ac7e9ed37f2f2e126659',1,'binheap.h']]]
+  ['binheap_5fminimum',['binheap_minimum',['../binheap_8h.html#a2a334afddd72ac7e9ed37f2f2e126659',1,'binheap.h']]],
+  ['binheap_5fwalk',['binheap_walk',['../binheap_8h.html#adcde2fb22431b163d45f77ca433c878c',1,'binheap.h']]]
 ];

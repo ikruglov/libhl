@@ -15,5 +15,6 @@ var rqueue_8h =
     [ "rqueue_destroy", "rqueue_8h.html#aa2d87f7f450fd7f9d5f39d97c64a1c15", null ],
     [ "rqueue_write_count", "rqueue_8h.html#a95fbe59fc6fe70e458fc940e532929d7", null ],
     [ "rqueue_read_count", "rqueue_8h.html#a05b2184be7c1423c568de96478a310b7", null ],
-    [ "rqueue_stats", "rqueue_8h.html#a455f5f762c97cc38fea0aa87383063cb", null ]
+    [ "rqueue_stats", "rqueue_8h.html#a455f5f762c97cc38fea0aa87383063cb", null ],
+    [ "rqueue_isempty", "rqueue_8h.html#a55c7ad4235d3a011fbfd63126c57ff18", null ]
 ];
