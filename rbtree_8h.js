@@ -5,9 +5,9 @@ var rbtree_8h =
     [ "rbt_walk_callback", "rbtree_8h.html#aa76c05a0942b82a26ca38aaac85f34c2", null ],
     [ "rbt_create", "rbtree_8h.html#ac39e6a47b88f032a6032d3ddb6d74af9", null ],
     [ "rbt_destroy", "rbtree_8h.html#a5baa6232f465d75967090505ee3cb72f", null ],
-    [ "rbt_add", "rbtree_8h.html#a6bb64dc33a8ddab2ebd2105f3ab9faea", null ],
+    [ "rbt_add", "rbtree_8h.html#adf2e8ecef8cae90a6b7eb862f37aa888", null ],
     [ "rbt_remove", "rbtree_8h.html#adc4969512805f60880e0a88df95c610d", null ],
-    [ "rbt_find", "rbtree_8h.html#a1b619f9994e7ea3ab2c8a437be06228c", null ],
+    [ "rbt_find", "rbtree_8h.html#a33b296a1accfe86c50c8490daa478978", null ],
     [ "rbt_walk", "rbtree_8h.html#ad5c6b3927a988be43ba0c79190146065", null ],
     [ "rbt_walk_sorted", "rbtree_8h.html#a44c986ac76c688f1a49a3f0543ac3b9d", null ]
 ];

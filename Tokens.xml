@@ -2037,7 +2037,7 @@
       <Type>func</Type>
     </TokenIdentifier>
     <Path>rbtree_8h.html</Path>
-    <Anchor>a6bb64dc33a8ddab2ebd2105f3ab9faea</Anchor>
+    <Anchor>adf2e8ecef8cae90a6b7eb862f37aa888</Anchor>
     <Abstract>Add a new value into the tree.</Abstract>
     <DeclaredIn>rbtree.h</DeclaredIn>
   </Token>
@@ -2059,7 +2059,7 @@
       <Type>func</Type>
     </TokenIdentifier>
     <Path>rbtree_8h.html</Path>
-    <Anchor>a1b619f9994e7ea3ab2c8a437be06228c</Anchor>
+    <Anchor>a33b296a1accfe86c50c8490daa478978</Anchor>
     <Abstract>Find the value stored in the node node matching a specific key (if any)</Abstract>
     <DeclaredIn>rbtree.h</DeclaredIn>
   </Token>
